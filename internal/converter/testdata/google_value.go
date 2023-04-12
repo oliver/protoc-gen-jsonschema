@@ -42,4 +42,4 @@ const GoogleValue = `{
 
 const GoogleValueFail = `{"arg": null}`
 
-const GoogleValuePass = `{"arg": 12345}`
+const GoogleValuePass = `{"arg": 12345, "some_list": [3.14, 42, "abc", true]}`
