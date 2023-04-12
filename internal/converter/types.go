@@ -30,6 +30,7 @@ var (
 		"Value":       true,
 		"Duration":    true,
 		"Struct":      true,
+		"ListValue":   true,
 	}
 )
 
